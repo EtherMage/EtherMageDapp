@@ -1,1 +1,1 @@
-# EtherMageDapp
+# EtherMage
